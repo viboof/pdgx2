@@ -120,7 +120,7 @@ export default {
 			discordUrl, 
 			"<@&1338976740759830568> Upcoming Oregon Melee sets at " + todayTime + ":\n\n" +
 			players.join("\n") + "\n\n" +
-			"[spreadsheet](https://docs.google.com/spreadsheets/d/" + sheetId + "/edit) - [source code](https://github.com/viboof/pdgx2)"
+			"[spreadsheet](https://docs.google.com/spreadsheets/d/" + sheetId + "/edit) - [source code](<https://github.com/viboof/pdgx2>)"
 		);
 	},
 };
